@@ -5,7 +5,6 @@ This notebook demonstrates a k-armed bandit approach for recommending movies to 
 
 Key Features:  
 Epsilon-Greedy Exploration: Balances recommending high-reward movies (exploitation) with exploring new or lesser-known movies (exploration).  
-Reward Calculation: Simulates user engagement with binary rewards (clicks) or continuous feedback (watch time, ratings).  
 Performance Evaluation: Tracks the average reward over multiple recommendation rounds.  
 
 2. MDP vs. Q-learning for Grid-Based Pathfinding
