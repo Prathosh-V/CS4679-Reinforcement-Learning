@@ -1,7 +1,7 @@
 ### Reinforcement-Learning
 1. k-Armed Bandit for Movie Recommendation
    
-This notebook demonstrates a k-armed bandit approach for recommending movies to users, using an epsilon-greedy strategy. Each movie is treated as an "arm," and the algorithm learns to balance exploration and exploitation by adjusting recommendations based on user feedback (e.g., clicks, watch time, or ratings).  
+This notebook demonstrates a k-armed bandit approach for recommending movies to users, using an epsilon-greedy strategy. Each movie is treated as an "arm," and the algorithm learns to balance exploration and exploitation by adjusting recommendations based on user feedback.
 
 Key Features:  
 Epsilon-Greedy Exploration: Balances recommending high-reward movies (exploitation) with exploring new or lesser-known movies (exploration).  
